@@ -11,4 +11,4 @@ country = prompt("Enter your country")
 
 
 
-document.write("Full Name:" + fullName,  "Height:" + height,  "Country:" + country);
+document.write("Full Name:" + fullName + "," + " " + "Height:" + height +"ft"+ "," + " " +   "Country:" + country);
